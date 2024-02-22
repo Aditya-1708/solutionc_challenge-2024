@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "751364244973",
+    "project_id": "bbauth-9ef11",
+    "storage_bucket": "bbauth-9ef11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751364244973:android:481daab3007146523f13e4",
+        "android_client_info": {
+          "package_name": "com.example.nourishnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751364244973-38fdnpv48jg256bnu9rdsn3boj6uaoah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nourishnet",
+            "certificate_hash": "22e4586299288721a6e5b1a2a3fdeec2ed1dc479"
+          }
+        },
+        {
+          "client_id": "751364244973-863fceui2v5etfah3aku5rhthmtsofeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nourishnet",
+            "certificate_hash": "eb2f335f9247b0c7a7a0359a1d57e32daaaba44a"
+          }
+        },
+        {
+          "client_id": "751364244973-cfogj8n4au5dobfcnj3gvjreotjm0cq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkp8-uBldaVJxHaCrXeeMLCo6Yay599jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751364244973-cfogj8n4au5dobfcnj3gvjreotjm0cq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "751364244973-14tulnafubrucu4p98s49a6r9agb90af.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bbAuth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
