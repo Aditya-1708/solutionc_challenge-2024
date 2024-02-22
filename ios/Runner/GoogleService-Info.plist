@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>751364244973-hbovhigh1c059l8c5jv8406avp4p0pge.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.751364244973-hbovhigh1c059l8c5jv8406avp4p0pge</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>751364244973-60m2oi0ro1fh3l6khgsjui7kt6mc1vda.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqKR619gmJb37c9weXDF1CXAsRhTj1n7k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>751364244973</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nourishnet</string>
+	<key>PROJECT_ID</key>
+	<string>bbauth-9ef11</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bbauth-9ef11.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:751364244973:ios:210d9f77600b61323f13e4</string>
+</dict>
+</plist>
