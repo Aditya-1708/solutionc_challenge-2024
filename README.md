@@ -10,7 +10,7 @@ Future plans include offline registration for inclusivity, partnering with food 
 Join us in our mission to combat hunger and promote sustainable development.
 
 ## Demo
-Youtube Link - 
+Youtube Link - https://youtu.be/2dALYz2aSqw?si=8MJJxq10phYJ0DX-
 
 
 ## Run Locally
